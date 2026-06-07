@@ -1,0 +1,9 @@
+[package]
+name = "semantic-field"
+version = "0.1.0"
+description = "Force fields in embedding space for semantic navigation and manipulation"
+repository = "https://github.com/SuperInstance/semantic-field"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
